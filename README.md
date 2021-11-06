@@ -1,7 +1,7 @@
 Прикладная статистика
 ========
 
-Привет, Олимпийский! Это репозиторий для линейки онлайн-курсов по статистике. Она создана в рамках специализации __[От статистики до нейросетей:](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)__
+Привет, Олимпийский! Это репозиторий для линейки онлайн-курсов по статистике.
 
 - [Сбор и анализ данных в python](https://www.coursera.org/learn/data-collection-and-analysis-in-python?specialization=machine-learning-from-statistics-to-neural-networks)
 - [Основы машинного обучения](https://www.coursera.org/learn/machine-learning-foundations?specialization=machine-learning-from-statistics-to-neural-networks)
